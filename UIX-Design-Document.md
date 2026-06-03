@@ -1,1 +1,0 @@
-# UI/X Design Document
